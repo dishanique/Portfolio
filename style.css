@@ -1,0 +1,21 @@
+body{
+    font-family: 'Cormorant Upright', serif;
+    color: mediumpurple;
+}
+h1{
+  text-align: right;
+}
+h2{
+  text-align: center;
+
+}
+h3{
+  text-align: right;
+}
+h4{
+  text-align: center;
+  display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
+    float:left;
+}
