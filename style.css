@@ -14,8 +14,14 @@ h3{
 }
 h4{
   text-align: center;
-  display: inline-block;
-    margin-left: 150px;
-    margin-right: 150px;
-    float:left;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    float: left;
+}
+.text-thin{
+  font-weight: 100;
+}
+.full-width{
+    width: 100%;
 }
