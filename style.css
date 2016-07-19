@@ -1,27 +1,25 @@
-body{
-    font-family: 'Cormorant Upright', serif;
-    color: mediumpurple;
-}
 h1{
   text-align: right;
 }
+
 h2{
   text-align: center;
 
 }
+
 h3{
   text-align: right;
 }
+
 h4{
   text-align: center;
-    display: inline-block;
-    margin-left: 100px;
-    margin-right: 100px;
-    float: left;
 }
+
 .text-thin{
   font-weight: 100;
 }
+
 .full-width{
     width: 100%;
+    height: auto;
 }
