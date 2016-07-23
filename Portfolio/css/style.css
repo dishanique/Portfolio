@@ -1,10 +1,13 @@
+p {
+	text-align: center;
+}
+
 h1 {
 	text-align: right;
 }
 
 h2 {
 	text-align: center;
-
 }
 
 h3 {
@@ -23,6 +26,11 @@ h4 {
 	width: 100%;
 	height: auto;
 }
+
 .center-block {
-	display: block;
+	display: block;	
+}
+
+.img-responsive {
+	height: 200px;
 }
